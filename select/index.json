@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "アイデンティティ",
+  "base_artist": "Kanaria",
+  "createdAt": "2025-12-02T09:18:53.133201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "Bish",
+      "has_synced": true,
+      "path": "select/01_アイデンティティ_Bish.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/02_アイデンティティ_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_アイデンティティ_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "酒井ミキオ",
+      "has_synced": true,
+      "path": "select/04_アイデンティティ_酒井ミキオ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/05_アイデンティティ_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/06_アイデンティティ_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "Kiro Akiyama",
+      "has_synced": true,
+      "path": "select/07_アイデンティティ_Kiro_Akiyama.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/08_アイデンティティ_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/09_アイデンティティ_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Identity [アイデンティティ]",
+      "artist": "BiSH",
+      "has_synced": true,
+      "path": "select/10_Identity_[アイデンティティ]_BiSH.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "Mikio Sakai",
+      "has_synced": true,
+      "path": "select/11_アイデンティティ_Mikio_Sakai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/12_アイデンティティ_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "FTISLAND",
+      "has_synced": false,
+      "path": "select/13_アイデンティティ_FTISLAND.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "Kiro Akiyama",
+      "has_synced": true,
+      "path": "select/14_アイデンティティ_Kiro_Akiyama.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Identity (English Cover) 【Will Stetson】 「アイデンティティ」 [Kanaria]",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/15_Identity_(English_Cover)_【Will_Stetson】_「アイデンティティ」_[Kanaria]_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/16_アイデンティティ_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "アイデンティティ",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/17_アイデンティティ_和楽器バンド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイデンティティ",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_アイデンティティ_Kanaria.txt"
+    }
+  ]
+}
